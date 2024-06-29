@@ -1,0 +1,22 @@
+AIfinity-Financial-Advisory/
+├── backend/
+│   ├── app.py             # Main application logic for backend
+│   ├── requirements.txt   # List of dependencies for Python
+│   └── README.md          # Backend-specific instructions and documentation
+│
+├── frontend/
+│   ├── public/
+│   │   ├── index.html     # Main HTML template for frontend
+│   │   └── ...
+│   ├── src/
+│   │   ├── App.js         # Main React component
+│   │   ├── index.js       # Entry point for React application
+│   │   └── ...
+│   ├── README.md          # Frontend-specific instructions and documentation
+│   └── package.json       # Configuration and dependencies for React
+│
+├── docs/                  # Additional project documentation
+│   └── README.md          # General project documentation
+│
+├── LICENSE                # License file (e.g., MIT License)
+└── README.md              # Project overview and setup instructions
